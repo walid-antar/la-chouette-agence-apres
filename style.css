@@ -687,8 +687,9 @@ p {
 
 #citation-text
 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-style: italic;
+    color: #575757!important;
 }
 
 #citation-auteur
