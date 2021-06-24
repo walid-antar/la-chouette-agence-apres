@@ -680,6 +680,23 @@ p {
     font-size: 1em;
 }
 
+.text-img
+{
+    font-size: 1.6em;
+}
+
+#citation-text
+{
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+#citation-auteur
+{
+    font-size: 1em;
+}
+
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
